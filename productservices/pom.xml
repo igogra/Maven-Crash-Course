@@ -6,6 +6,7 @@
 		<groupId>com.igogra.product</groupId>
 		<artifactId>productparent</artifactId>
 		<version>1.0</version>
+		<relativePath>../pom.xml</relativePath>
 	</parent>
 
 	<artifactId>productservices</artifactId>
